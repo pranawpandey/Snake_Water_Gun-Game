@@ -5,6 +5,7 @@ import random
 -1 for water
 0 for gun
 '''
+
 computer=random.choice([1,-1,0])  # computer will choose random numbers between the three numbers
 youstr=input("enter your choice: ")
 youdict={"s":1 , "w":-1 , "g":0}

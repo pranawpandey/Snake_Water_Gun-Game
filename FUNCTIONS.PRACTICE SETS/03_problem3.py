@@ -6,3 +6,6 @@ def sum(n):
     return sum(n-1)+n
 n= int(input("enter the number: "))
 print(f" The sum is: {sum(n)}")
+
+
+
